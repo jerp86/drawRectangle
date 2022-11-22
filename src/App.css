@@ -1,0 +1,30 @@
+/* h1,
+p {
+  font-family: Lato;
+}
+
+.App,
+body {
+  margin: 0px;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+} */
+
+object {
+  width: 80vw;
+  height: 80vh;
+  object-fit: scale-down;
+
+  background-color: #7159c1;
+  margin: 0.5rem auto;
+  padding: 0.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
